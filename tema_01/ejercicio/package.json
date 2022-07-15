@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio_1",
+  "version": "1.0.0",
+  "description": "Este es el primer ejercicio para entregar a openbootcamp",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio_1": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian",
+  "license": "ISC"
+}
