@@ -1,0 +1,14 @@
+.seccion {
+    background-color: rgb(73, 73, 73);
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.parrafo {
+    background-color: rgb(255, 255, 255);
+    padding: 1rem;
+}
+
+.parrafo.dragging {
+    opacity: 0.3;
+}
